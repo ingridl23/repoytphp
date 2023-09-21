@@ -1,2 +1,4 @@
-# ejercicios-php-youtube
-Ejercicios de PHP del canal de discoduroderoer
+
+# repoytphp
+recopilaciones de codigo de funciones en php base de datos , session etc
+
